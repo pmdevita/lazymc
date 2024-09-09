@@ -1,3 +1,9 @@
+# lazymc
+
+Forked this just to support 1.20.1 with the other latest changes since my server is currently stuck on that.
+
+---
+
 [![Build status on GitLab CI][gitlab-ci-master-badge]][gitlab-ci-link]
 [![Project license][license-badge]](LICENSE)
 

@@ -5,7 +5,7 @@ use std::time::Duration;
 use bytes::BytesMut;
 use minecraft_protocol::decoder::Decoder;
 use minecraft_protocol::version::v1_14_4::handshake::Handshake;
-use minecraft_protocol::version::v1_20_3::status::{
+use minecraft_protocol::version::v1_14_4::status::{
     PingRequest, PingResponse, ServerStatus, StatusRequest, StatusResponse,
 };
 use rand::Rng;
